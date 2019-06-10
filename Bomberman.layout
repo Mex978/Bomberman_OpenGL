@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="61">
+			<Cursor Line="72" Column="21"/>
+		</File>
+		<File Name="variaveis_globais.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="34" Column="13"/>
+		</File>
+		<File Name="funcoes.h" Top="Yes" Tabpos="3" TopLine="88">
+			<Cursor Line="95" Column="3"/>
+		</File>
+	</Files>
+</Layout>
